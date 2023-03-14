@@ -17,6 +17,8 @@
     <img align="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div></br>
 
+
+
 <!--
 **jameshmaclean/jameshmaclean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,3 +33,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</br>
+![snake gif](https://github.com/jameshmaclean/jameshmaclean/blob/output/github-contribution-grid-snake.svg)
